@@ -2,6 +2,70 @@
     <img src="resources/media/m1.PNG" alt="Image description" style="width:100%; height:100%;">
   </p>
 
+
+## Section 0:
+
+### Java Package creation Guide
+
+# Part 1
+1. First, create a directory called lab4. After that, when writing the Java classes, define the package 
+name (lab4) to match the directory structure.
+
+  <p align="center">
+    <img src="resources/media/image1.png" alt="Image description" style="width:100%; height:100%;">
+  </p>
+
+  <p align="center">
+    <img src="resources/media/image2.png" alt="Image description" style="width:100%; height:100%;">
+  </p>
+
+  
+Mainclass.java
+
+  <p align="center">
+    <img src="resources/media/image3.png" alt="Image description" style="width:100%; height:100%;">
+  </p>
+  
+HelperClass.java
+
+
+  <p align="center">
+    <img src="resources/media/image4.png" alt="Image description" style="width:100%; height:100%;">
+  </p>
+  
+When compiling and running the program, please follow the commands below. Make sure to navigate 
+outside the created folder (lab4) before compiling the program.
+
+  <p align="center">
+    <img src="resources/media/11.PNG" alt="Image description" style="width:100%; height:100%;">
+  </p>
+  
+# Part 2
+
+If there has many packages like below
+    <p align="center">
+    <img src="resources/media/image5.png" alt="Image description" style="width:100%; height:100%;">
+  </p>
+  
+Mainclass.java
+
+  <p align="center">
+    <img src="resources/media/image8.png" alt="Image description" style="width:100%; height:100%;">
+  </p>
+  
+HelperClass.java
+
+  <p align="center">
+    <img src="resources/media/image9.png" alt="Image description" style="width:100%; height:100%;">
+  </p>
+
+When compiling and running the program, please follow the commands below. Make sure to navigate 
+outside the created folder before compiling the program.
+
+  <p align="center">
+    <img src="resources/media/22.PNG" alt="Image description" style="width:100%; height:100%;">
+  </p>
+
 ## Section 1: Notes
 
 ### Basics of Classes
